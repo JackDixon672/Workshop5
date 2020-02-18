@@ -1,0 +1,11 @@
+C:\Users\computing\Source\Repos\CMP1903M_W05\CMP1903M_W05\bin\Debug\netcoreapp3.1\CMP1903M_W05.exe
+C:\Users\computing\Source\Repos\CMP1903M_W05\CMP1903M_W05\bin\Debug\netcoreapp3.1\CMP1903M_W05.deps.json
+C:\Users\computing\Source\Repos\CMP1903M_W05\CMP1903M_W05\bin\Debug\netcoreapp3.1\CMP1903M_W05.runtimeconfig.json
+C:\Users\computing\Source\Repos\CMP1903M_W05\CMP1903M_W05\bin\Debug\netcoreapp3.1\CMP1903M_W05.runtimeconfig.dev.json
+C:\Users\computing\Source\Repos\CMP1903M_W05\CMP1903M_W05\bin\Debug\netcoreapp3.1\CMP1903M_W05.dll
+C:\Users\computing\Source\Repos\CMP1903M_W05\CMP1903M_W05\bin\Debug\netcoreapp3.1\CMP1903M_W05.pdb
+C:\Users\computing\Source\Repos\CMP1903M_W05\CMP1903M_W05\obj\Debug\netcoreapp3.1\CMP1903M_W05.csprojAssemblyReference.cache
+C:\Users\computing\Source\Repos\CMP1903M_W05\CMP1903M_W05\obj\Debug\netcoreapp3.1\CMP1903M_W05.AssemblyInfoInputs.cache
+C:\Users\computing\Source\Repos\CMP1903M_W05\CMP1903M_W05\obj\Debug\netcoreapp3.1\CMP1903M_W05.AssemblyInfo.cs
+C:\Users\computing\Source\Repos\CMP1903M_W05\CMP1903M_W05\obj\Debug\netcoreapp3.1\CMP1903M_W05.dll
+C:\Users\computing\Source\Repos\CMP1903M_W05\CMP1903M_W05\obj\Debug\netcoreapp3.1\CMP1903M_W05.pdb
